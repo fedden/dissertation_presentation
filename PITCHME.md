@@ -18,18 +18,16 @@
 
 ---
 
-## Methodologies
+## Host VST in Python
 <br>
-#### Host VST in Python
 - C++ JUCE Library hosts VST |
 - Boost Python headers expose VST Host class to Python |
 - Create better VST host in Python using exposed class |
 
 ---
 
-## Methodologies
+## Use Python VST host
 <br>
-#### Use Python VST host
 - Create whopping datasets |
 - Biggest dataset had **1,771,561** examples |
 - Each example is a pair of features and parameters |
@@ -38,18 +36,16 @@
 
 ---
 
-## Methodologies
+## TensorFlow
 <br>
-#### TensorFlow
 - Split the datasets into Testing, Training, Validation |
-- Create a network graph
-- Train the network
+- Create a network graph |
+- Train the network|
 
 ---
 
-## Methodologies
+## Visualising the results
 <br>
-#### Visualising the results
 - Save testing predictions in a datastructure |
 - Sort by feature distance |
 - MatPlotLib and Pandas for visualisation |
