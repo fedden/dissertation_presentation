@@ -20,7 +20,13 @@
 
 ## Methodologies
 <br>
-<img src="assets/framework.jpg" height="400">
+- Host VST in Python |
+    - C++ JUCE Library hosts VST |
+    - Boost Python headers expose VST Host class to Python |
+    - Create better VST host in Python using exposed class |
+- Make whopping dataset of sounds and the parameters that made them |
+- Train neural networks in TensorFlow on the dataset |
+- Visualise results in IPython |
 ---
 
 ## Results
