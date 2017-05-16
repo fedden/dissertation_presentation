@@ -20,7 +20,7 @@
 
 ## Methodologies
 <br>
-<img src="assets/framework.jpg" height="800">
+<img src="assets/framework.jpg" height="400">
 ---
 
 ## Results
