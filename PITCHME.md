@@ -5,14 +5,14 @@
 
 ## Motivations
 <br>
-- AI that programs VSTs to reproduce a desired, target sound |
+- AI that makes VSTs produce a desired sound |
 - Enables the user to focus on music |
 
 ---
 
 ## Objectives
 <br>
-- Hacking VSTs hosted in Python |
+- Hacking with VSTs hosted in Python |
 - See if Neural Networks can learn to program Synthesisers |
 - Compare Neural Networks against other optimisation techniques |
 
@@ -20,6 +20,8 @@
 
 ## Methodologies
 <br>
+![framework](assets/framework.jpg)
+
 ---
 
 ## Results
