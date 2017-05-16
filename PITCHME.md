@@ -13,15 +13,14 @@
 ## Objectives
 <br>
 - Hacking with VSTs hosted in Python |
-- See if Neural Networks can learn to program Synthesisers |
-- Compare Neural Networks against other optimisation techniques |
+- Can neural networks can learn to program synthesisers? |
+- Compare neural networks against other optimisation techniques |
 
 ---
 
 ## Methodologies
 <br>
-![framework](assets/framework.jpg)
-
+<img src="assets/framework.jpg" height="800">
 ---
 
 ## Results
