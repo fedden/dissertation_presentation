@@ -29,7 +29,7 @@
 ## Use Python VST host
 <br>
 - Create whopping datasets |
-- Biggest dataset had **1,771,561** examples |
+- Biggest dataset had 1,771,561 examples |
 - Each example is a pair of features and parameters |
 - Tell the VST host which audio features you want |
 - Parameters are the settings used to make the features |
@@ -62,6 +62,12 @@
 
 ## Evaluations
 <br>
+<audio controls>
+    <source src="predicted_fm.wav"/>
+</audio>
+<audio controls>
+    <source src="actual_fm.wav"/>
+</audio>
 ---
 
 ## Future
