@@ -63,10 +63,10 @@
 ## Evaluations
 <br>
 <audio controls>
-    <source src="predicted_fm.wav"/>
+    <source src="assets/predicted_fm.wav"/>
 </audio>
 <audio controls>
-    <source src="actual_fm.wav"/>
+    <source src="assets/actual_fm.wav"/>
 </audio>
 ---
 
