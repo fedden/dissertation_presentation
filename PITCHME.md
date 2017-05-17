@@ -60,13 +60,36 @@
 - Experimented with reinforcement learning |
 ---
 
-## Evaluations
+## Granulator Synth
 <br>
+![](assets/gran.png)
 <audio controls>
-    <source src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Test_ogg_mp3_48kbps.wav"/>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_gran.wav"/>
 </audio>
 <audio controls>
-    <source src="predicted_fm.wav"/>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_gran.wav"/>
+</audio>
+---
+
+## 6 Parameter FM Synth
+<br>
+![](assets/fm.png)
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_fm.wav"/>
+</audio>
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_fm.wav"/>
+</audio>
+---
+
+## One Operator Dexed
+<br>
+![](assets/dexed.png)
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_dexed_one.wav"/>
+</audio>
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_dexed_one.wav"/>
 </audio>
 ---
 
