@@ -50,6 +50,8 @@
 - Sort by feature distance |
 - MatPlotLib and Pandas for visualisation |
 
+---
+
 ## Experiments
 <br>
 - Experimented with synthesisers |
