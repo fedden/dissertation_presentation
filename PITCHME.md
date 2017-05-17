@@ -50,8 +50,12 @@
 - Sort by feature distance |
 - MatPlotLib and Pandas for visualisation |
 
-## Results
+## Experiments
 <br>
+- Experimented with synthesisers |
+- Experimented with features |
+- Experimented with optimisation techniques |
+- Experimented with reinforcement learning |
 ---
 
 ## Evaluations
