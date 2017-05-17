@@ -62,7 +62,7 @@
 
 ## Granulator Synth
 <br>
-<img src="assets/gran.png" width="40%">
+<img src="assets/gran.png" width="50%">
 <audio controls>
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_gran.wav"/>
 </audio>
@@ -73,7 +73,7 @@
 
 ## 6 Parameter FM Synth
 <br>
-<img src="assets/fm.png" width="40%">
+<img src="assets/fm.png" width="50%">
 <audio controls>
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_fm.wav"/>
 </audio>
@@ -84,7 +84,7 @@
 
 ## One Operator Dexed
 <br>
-<img src="assets/dexed_one.png" width="40%">
+<img src="assets/dexed_one.png" width="50%">
 <audio controls>
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_dexed_one.wav"/>
 </audio>
