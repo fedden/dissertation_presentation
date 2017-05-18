@@ -64,16 +64,16 @@
 <br>
 <img src="assets/gran.png" style="border: 0px;box-shadow:none;" width="50%">
 <div>
-Actual
-<audio controls>
+<audio controls="controls" style="vertical-align: middle;">
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_gran.wav"/>
 </audio>
+##### Actual
 </div>
 <div>
-Prediction
-<audio controls>
+<audio controls="controls" style="vertical-align: middle;">
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_gran.wav"/>
 </audio>
+##### Prediction
 </div>
 ---
 
