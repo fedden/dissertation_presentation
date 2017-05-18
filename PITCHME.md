@@ -60,7 +60,7 @@
 - Experimented with reinforcement learning |
 ---
 
-## 6 Parameter Granulator LSTM :)
+## 6 Parameter Granulator
 <br>
 <img src="assets/gran.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -71,7 +71,7 @@
 </audio>
 ---
 
-## 6 Parameters FM LSTM :)
+## 6 Parameter FM
 <br>
 <img src="assets/fm.png" style="border:0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -82,7 +82,7 @@
 </audio>
 ---
 
-## 23 Parameter LSTM / One Operator Dexed :)
+## 23 Parameter LSTM / One Operator Dexed
 <br>
 <img src="assets/dexed_one.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -93,7 +93,7 @@
 </audio>
 ---
 
-## 115 Parameter / Five Operator Dexed MLP :|
+## 115 Parameter / Five Operator Dexed MLP
 <br>
 <img src="assets/dexed_five.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -104,7 +104,7 @@
 </audio>
 ---
 
-## 6 Parameter Granulator LSTM :(
+## 6 Parameter Granulator LSTM
 <br>
 <img src="assets/bad_gran.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -115,7 +115,7 @@
 </audio>
 ---
 
-## 6 Parameter FM LSTM :(
+## 6 Parameter FM LSTM
 <br>
 <img src="assets/bad_fm.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
