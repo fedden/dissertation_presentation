@@ -60,7 +60,7 @@
 - Experimented with reinforcement learning |
 ---
 
-## Granulator Synth (6 Parameters)
+## 6 Parameter Granulator LSTM :)
 <br>
 <img src="assets/gran.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -71,7 +71,7 @@
 </audio>
 ---
 
-## FM (6 Parameters)
+## 6 Parameters FM LSTM :)
 <br>
 <img src="assets/fm.png" style="border:0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -82,7 +82,7 @@
 </audio>
 ---
 
-## LSTM One Operator Dexed (23 Parameters)
+## 23 Parameter LSTM / One Operator Dexed :)
 <br>
 <img src="assets/dexed_one.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -93,7 +93,7 @@
 </audio>
 ---
 
-## MLP Five Operator Dexed (115 Parameters)
+## 115 Parameter / Five Operator Dexed MLP :|
 <br>
 <img src="assets/dexed_five.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -104,7 +104,7 @@
 </audio>
 ---
 
-## Not So Good: Granulator (6 Parameters)
+## 6 Parameter Granulator LSTM :(
 <br>
 <img src="assets/bad_gran.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -115,7 +115,7 @@
 </audio>
 ---
 
-## Not So Good: FM (6 Parameters)
+## 6 Parameter FM LSTM :(
 <br>
 <img src="assets/bad_fm.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -128,8 +128,8 @@
 
 ## Future
 <br>
-- Modelling synthesisers is better than searching for solutions
-- Feature distance trumps parameter distance
-- Reinforcement / Evolution Strategies?
-- Importance of the correct features - learn from audio?
-- One model to rule them all - transfer learning?
+- Modelling synthesisers is better than searching for solutions |
+- Feature distance trumps parameter distance |
+- Reinforcement / Evolution Strategies? |
+- Importance of the correct features - learn from audio? |
+- One model to rule them all - transfer learning? |
