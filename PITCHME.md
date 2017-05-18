@@ -126,6 +126,10 @@
 </audio>
 ---
 
-
 ## Future
 <br>
+- Modelling synthesisers is better than searching for solutions
+- Feature distance trumps parameter distance
+- Reinforcement / Evolution Strategies?
+- Importance of the correct features - learn from audio?
+- One model to rule them all - transfer learning?
