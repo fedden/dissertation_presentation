@@ -60,18 +60,24 @@
 - Experimented with reinforcement learning |
 ---
 
-## Granulator Synth
+## Granulator Synth (6 Parameters)
 <br>
 <img src="assets/gran.png" style="border: 0px;box-shadow:none;" width="50%">
+<div>
+Actual
 <audio controls>
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_gran.wav"/>
 </audio>
+</div>
+<div>
+Prediction
 <audio controls>
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_gran.wav"/>
 </audio>
+</div>
 ---
 
-## 6 Parameter FM Synth
+## FM (6 Parameters)
 <br>
 <img src="assets/fm.png" style="border:0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -82,7 +88,7 @@
 </audio>
 ---
 
-## One Operator Dexed
+## LSTM One Operator Dexed (23 Parameters)
 <br>
 <img src="assets/dexed_one.png" style="border: 0px;box-shadow:none;" width="50%">
 <audio controls>
@@ -92,6 +98,40 @@
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_dexed_one.wav"/>
 </audio>
 ---
+
+## MLP Five Operator Dexed (115 Parameters)
+<br>
+<img src="assets/dexed_five.png" style="border: 0px;box-shadow:none;" width="50%">
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_dexed_five.wav"/>
+</audio>
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_dexed_one.five"/>
+</audio>
+---
+
+## Not So Good: Granulator (6 Parameters)
+<br>
+<img src="assets/bad_gran.png" style="border: 0px;box-shadow:none;" width="50%">
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_bad_gran.wav"/>
+</audio>
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_bad_gran.wav"/>
+</audio>
+---
+
+## Not So Good: FM (6 Parameters)
+<br>
+<img src="assets/bad_fm.png" style="border: 0px;box-shadow:none;" width="50%">
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_bad_fm.wav"/>
+</audio>
+<audio controls>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_bad_fm.wav"/>
+</audio>
+---
+
 
 ## Future
 <br>
