@@ -63,18 +63,12 @@
 ## Granulator Synth (6 Parameters)
 <br>
 <img src="assets/gran.png" style="border: 0px;box-shadow:none;" width="50%">
-<div>
-<audio controls="controls" style="vertical-align: middle;">
+<audio controls>
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_gran.wav"/>
 </audio>
-##### Actual
-</div>
-<div>
-<audio controls="controls" style="vertical-align: middle;">
+<audio controls>
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_gran.wav"/>
 </audio>
-##### Prediction
-</div>
 ---
 
 ## FM (6 Parameters)
@@ -106,7 +100,7 @@
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_dexed_five.wav"/>
 </audio>
 <audio controls>
-    <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_dexed_one.five"/>
+    <source src="http://doc.gold.ac.uk/~lfedd001/audio/predicted_dexed_five.wav"/>
 </audio>
 ---
 
