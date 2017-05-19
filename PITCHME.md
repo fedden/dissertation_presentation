@@ -106,7 +106,7 @@
 
 ## 6 Parameter Granulator LSTM
 <br>
-<img src="assets/bad_gran.png" style="border: 0px;box-shadow:none;" width="50%">
+<img src="assets/bad_gran.png" style="border: 0px;box-shadow:none;" width="40%">
 <audio controls>
     <source src="http://doc.gold.ac.uk/~lfedd001/audio/actual_bad_gran.wav"/>
 </audio>
